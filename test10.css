@@ -13,7 +13,6 @@ img{
    max-width:100%;
 }
 .top{
-    background-color: white;
     color:#29b078;
     height:40px;
     font-size: 14px;
@@ -201,7 +200,7 @@ html{
 }
 @media screen and ( max-width:767px ){
 html{
-    font-size: 45;
+    font-size: 45%;
 }
    .navbar-default .navbar-nav .aaa a{
      color:white;
