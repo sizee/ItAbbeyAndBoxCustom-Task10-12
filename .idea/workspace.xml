@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a228091-f345-4756-bab9-3de7939ebdcc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test10职业介绍.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/text10职业介绍.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/base.css" afterPath="$PROJECT_DIR$/base.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/text10.html" afterPath="$PROJECT_DIR$/text10.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/text10职业介绍.html" afterPath="$PROJECT_DIR$/text10职业介绍.html" />
     </list>
     <ignored path="ItAbbeyAndBoxCustom-Task10-12.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,15 +28,14 @@
       <file leaf-file-name="text10.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/text10.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <state relative-caret-position="485">
+              <caret line="263" column="40" selection-start-line="263" selection-start-column="40" selection-end-line="263" selection-end-column="40" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <marker date="1466933130361" expanded="false" signature="4155:11177" placeholder="..." />
-                <marker date="1466933130361" expanded="false" signature="11320:13737" placeholder="..." />
-                <marker date="1466933130361" expanded="false" signature="12704:13726" placeholder="..." />
+                <element signature="n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -47,14 +44,14 @@
       <file leaf-file-name="text10职业介绍.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/text10职业介绍.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+            <state relative-caret-position="450">
+              <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -63,40 +60,9 @@
       <file leaf-file-name="test10职业介绍.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test10职业介绍.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/base.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="104" column="21" selection-start-line="104" selection-start-column="21" selection-end-line="104" selection-end-column="21" />
-              <folding>
-                <element signature="e#6#60#0" expanded="false" />
-                <element signature="e#141#244#0" expanded="false" />
-                <element signature="e#251#292#0" expanded="false" />
-                <element signature="e#299#325#0" expanded="false" />
-                <element signature="e#411#460#0" expanded="false" />
-                <element signature="e#476#526#0" expanded="false" />
-                <element signature="e#534#558#0" expanded="false" />
-                <element signature="e#573#595#0" expanded="false" />
-                <element signature="e#610#634#0" expanded="false" />
-                <element signature="e#647#669#0" expanded="false" />
-                <element signature="e#712#797#0" expanded="false" />
-                <element signature="e#875#930#0" expanded="false" />
-                <element signature="e#1015#1064#0" expanded="false" />
-                <element signature="e#1078#1110#0" expanded="false" />
-                <element signature="e#1126#1171#0" expanded="false" />
-                <element signature="e#1188#1264#0" expanded="false" />
-                <element signature="e#1281#1314#0" expanded="false" />
-                <element signature="e#1333#1396#0" expanded="false" />
-                <element signature="e#1418#1509#0" expanded="false" />
-                <element signature="e#1529#1571#0" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -119,8 +85,8 @@
       <list>
         <option value="$PROJECT_DIR$/test10.css" />
         <option value="$PROJECT_DIR$/test10职业介绍.css" />
-        <option value="$PROJECT_DIR$/text10职业介绍.html" />
         <option value="$PROJECT_DIR$/base.css" />
+        <option value="$PROJECT_DIR$/text10职业介绍.html" />
         <option value="$PROJECT_DIR$/text10.html" />
       </list>
     </option>
@@ -260,7 +226,7 @@
       <workItem from="1466793508944" duration="206000" />
       <workItem from="1466794157247" duration="384000" />
       <workItem from="1466829755263" duration="3885000" />
-      <workItem from="1466931062927" duration="2064000" />
+      <workItem from="1466931062927" duration="2220000" />
     </task>
     <task id="LOCAL-00001" summary="task10最新更新">
       <created>1466794201337</created>
@@ -304,11 +270,18 @@
       <option name="project" value="LOCAL" />
       <updated>1466931859867</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="task10最新更新">
+      <created>1466933134915</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1466933134915</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6539000" />
+    <option name="totallyTimeSpent" value="6695000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="254" y="37" width="1623" height="1003" extended-state="0" />
@@ -378,9 +351,8 @@
             <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1466933130361" expanded="false" signature="4155:11177" placeholder="..." />
-            <marker date="1466933130361" expanded="false" signature="11320:13737" placeholder="..." />
-            <marker date="1466933130361" expanded="false" signature="12704:13726" placeholder="..." />
+            <element signature="n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -416,9 +388,8 @@
             <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1466933130361" expanded="false" signature="4155:11177" placeholder="..." />
-            <marker date="1466933130361" expanded="false" signature="11320:13737" placeholder="..." />
-            <marker date="1466933130361" expanded="false" signature="12704:13726" placeholder="..." />
+            <element signature="n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -456,24 +427,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test10职业介绍.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/text10职业介绍.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        <state relative-caret-position="450">
+          <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
           <folding>
             <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -507,17 +470,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test10职业介绍.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/text10.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        <state relative-caret-position="485">
+          <caret line="263" column="40" selection-start-line="263" selection-start-column="40" selection-end-line="263" selection-end-column="40" />
           <folding>
             <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1466933130361" expanded="false" signature="4155:11177" placeholder="..." />
-            <marker date="1466933130361" expanded="false" signature="11320:13737" placeholder="..." />
-            <marker date="1466933130361" expanded="false" signature="12704:13726" placeholder="..." />
+            <element signature="n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
