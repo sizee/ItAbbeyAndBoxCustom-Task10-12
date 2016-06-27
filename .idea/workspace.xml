@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a228091-f345-4756-bab9-3de7939ebdcc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/职位列表--orangestart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/职位列表人物.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Fly_mydream.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task12.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task12.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test10职业介绍.css" afterPath="$PROJECT_DIR$/test10职业介绍.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/text10.html" afterPath="$PROJECT_DIR$/text10.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/text10职业介绍.html" afterPath="$PROJECT_DIR$/text10职业介绍.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test10.css" afterPath="$PROJECT_DIR$/tast10.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test10职业介绍.css" afterPath="$PROJECT_DIR$/tast10职业介绍.css" />
     </list>
     <ignored path="ItAbbeyAndBoxCustom-Task10-12.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,11 +29,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="tast10职业介绍.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tast10职业介绍.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="text10.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/text10.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+              <folding>
+                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="text10职业介绍.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/text10职业介绍.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="235" column="0" selection-start-line="235" selection-start-column="0" selection-end-line="235" selection-end-column="0" />
+            <state relative-caret-position="275">
+              <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -56,11 +82,48 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test10职业介绍.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test10职业介绍.css">
+      <file leaf-file-name="tast10.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tast10.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+            <state relative-caret-position="75">
+              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+              <folding>
+                <element signature="e#232#256#0" expanded="false" />
+                <element signature="e#271#293#0" expanded="false" />
+                <element signature="e#308#370#0" expanded="false" />
+                <element signature="e#387#411#0" expanded="false" />
+                <element signature="e#437#724#0" expanded="false" />
+                <element signature="e#746#818#0" expanded="false" />
+                <element signature="e#837#861#0" expanded="false" />
+                <element signature="e#895#1051#0" expanded="false" />
+                <element signature="e#1122#1156#0" expanded="false" />
+                <element signature="e#1185#1359#0" expanded="false" />
+                <element signature="e#1378#1402#0" expanded="false" />
+                <element signature="e#1431#1636#0" expanded="false" />
+                <element signature="e#1669#1723#0" expanded="false" />
+                <element signature="e#1767#1785#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="task12.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/task12.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding>
+                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="task12.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/task12.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -84,9 +147,11 @@
       <list>
         <option value="$PROJECT_DIR$/test10.css" />
         <option value="$PROJECT_DIR$/base.css" />
+        <option value="$PROJECT_DIR$/test10职业介绍.css" />
+        <option value="$PROJECT_DIR$/task12.css" />
+        <option value="$PROJECT_DIR$/task12.html" />
         <option value="$PROJECT_DIR$/text10.html" />
         <option value="$PROJECT_DIR$/text10职业介绍.html" />
-        <option value="$PROJECT_DIR$/test10职业介绍.css" />
       </list>
     </option>
   </component>
@@ -96,10 +161,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="744" />
+    <option name="x" value="150" />
     <option name="y" value="179" />
-    <option name="width" value="908" />
-    <option name="height" value="526" />
+    <option name="width" value="1502" />
+    <option name="height" value="837" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -232,7 +297,7 @@
       <workItem from="1466794157247" duration="384000" />
       <workItem from="1466829755263" duration="3885000" />
       <workItem from="1466931062927" duration="15325000" />
-      <workItem from="1466987266367" duration="13654000" />
+      <workItem from="1466987266367" duration="13961000" />
     </task>
     <task id="LOCAL-00001" summary="task10最新更新">
       <created>1466794201337</created>
@@ -290,17 +355,24 @@
       <option name="project" value="LOCAL" />
       <updated>1466933290670</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="task11最新更新">
+      <created>1467004780939</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1467004780939</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33454000" />
+    <option name="totallyTimeSpent" value="33761000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="744" y="179" width="908" height="526" extended-state="0" />
-    <editor active="false" />
+    <frame x="150" y="179" width="1502" height="837" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17381229" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38160604" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947975" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -349,14 +421,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="task10最新更新" />
-    <option name="LAST_COMMIT_MESSAGE" value="task10最新更新" />
+    <MESSAGE value="task11最新更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="task11最新更新" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test10职业介绍.css">
+    <entry file="file://$PROJECT_DIR$/tast10职业介绍.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1750">
           <caret line="70" column="16" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="16" />
@@ -394,13 +467,35 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
           <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test10.css">
+    <entry file="file://$PROJECT_DIR$/tast10.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#232#256#0" expanded="false" />
+            <element signature="e#271#293#0" expanded="false" />
+            <element signature="e#308#370#0" expanded="false" />
+            <element signature="e#387#411#0" expanded="false" />
+            <element signature="e#437#724#0" expanded="false" />
+            <element signature="e#746#818#0" expanded="false" />
+            <element signature="e#837#861#0" expanded="false" />
+            <element signature="e#895#1051#0" expanded="false" />
+            <element signature="e#1122#1156#0" expanded="false" />
+            <element signature="e#1185#1359#0" expanded="false" />
+            <element signature="e#1378#1402#0" expanded="false" />
+            <element signature="e#1431#1636#0" expanded="false" />
+            <element signature="e#1669#1723#0" expanded="false" />
+            <element signature="e#1767#1785#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -408,6 +503,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -419,13 +520,6 @@
     <entry file="file://$PROJECT_DIR$/技能树首页---qq.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test10.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/base.css">
@@ -457,19 +551,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/text10.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="92" column="51" selection-start-line="92" selection-start-column="51" selection-end-line="92" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/职位列表人物.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test10职业介绍.css">
+    <entry file="file://$PROJECT_DIR$/task12.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task12.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text10.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tast10.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+          <folding>
+            <element signature="e#232#256#0" expanded="false" />
+            <element signature="e#271#293#0" expanded="false" />
+            <element signature="e#308#370#0" expanded="false" />
+            <element signature="e#387#411#0" expanded="false" />
+            <element signature="e#437#724#0" expanded="false" />
+            <element signature="e#746#818#0" expanded="false" />
+            <element signature="e#837#861#0" expanded="false" />
+            <element signature="e#895#1051#0" expanded="false" />
+            <element signature="e#1122#1156#0" expanded="false" />
+            <element signature="e#1185#1359#0" expanded="false" />
+            <element signature="e#1378#1402#0" expanded="false" />
+            <element signature="e#1431#1636#0" expanded="false" />
+            <element signature="e#1669#1723#0" expanded="false" />
+            <element signature="e#1767#1785#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tast10职业介绍.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
@@ -479,8 +620,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/text10职业介绍.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="235" column="0" selection-start-line="235" selection-start-column="0" selection-end-line="235" selection-end-column="0" />
+        <state relative-caret-position="275">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
           <folding>
             <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
