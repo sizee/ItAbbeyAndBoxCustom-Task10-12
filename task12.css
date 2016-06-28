@@ -188,7 +188,7 @@ float:right;
     color:#999;
     -webkit-appearance: none;
     -moz-appearance: none;
-    appearance: none;
+   /* appearance: none;*/
     background: url(定制箱---blue向下.png) no-repeat 99px center;
     padding:2px;
     margin: 3rem auto 0 auto;
