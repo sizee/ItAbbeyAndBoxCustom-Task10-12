@@ -182,8 +182,8 @@ float:right;
     background: url(定制箱---circleblue.png)no-repeat 0 0;
 }
 .mainbody  select{
-    height:3.7rem;
-    width:12.7rem;
+    height:37px;
+    width:127px;
     border:1px solid #999;
     color:#999;
     -webkit-appearance: none;
@@ -193,6 +193,11 @@ float:right;
     padding:2px;
     margin: 3rem auto 0 auto;
 }
+/*.mainbody .sel{
+    position: absolute;
+    top:-50px;
+    right:3.5%;
+}*/
 .mainbody .single .span{
     font-size:1.8rem;
     color:#666;
@@ -207,17 +212,7 @@ float:right;
     margin-bottom:0;
     border:1px solid #666;
 }
-.col-lg-10,
-.col-md-10,
-.col-ms-10,
-.col-ms-10,
-.col-lg-4,
-.col-md-4,
-.col-ms-4,
-.col-ms-12{
-    padding:0;
-    margin:0;
-}
+
 .mainbody button{
     border:none;
     margin:14.9rem auto;
@@ -231,6 +226,7 @@ float:right;
 }
 .footer .up {
     margin-top:7rem;
+    padding-bottom:5rem;
 }
 .footer .up p{
     font-size: 1.8rem;

@@ -2,15 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a228091-f345-4756-bab9-3de7939ebdcc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/定制箱---blue向下.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/定制箱---circle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/定制箱---circleblue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/定制箱---剪刀.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/定制箱---尺寸.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/定制箱---工具箱.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/定制箱gray00.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/定制箱orange11.png" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/职位列表---头像.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/task12.css" afterPath="$PROJECT_DIR$/task12.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/task12.html" afterPath="$PROJECT_DIR$/task12.html" />
@@ -34,17 +25,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="task12.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/task12.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="681">
+              <caret line="182" column="1" selection-start-line="192" selection-start-column="3" selection-end-line="193" selection-end-column="29" />
+              <folding>
+                <element signature="e#410#428#0" expanded="false" />
+                <element signature="e#438#461#0" expanded="false" />
+                <element signature="e#475#541#0" expanded="false" />
+                <element signature="e#554#649#0" expanded="false" />
+                <element signature="e#662#764#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="task12.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/task12.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="400">
+              <caret line="131" column="74" selection-start-line="131" selection-start-column="74" selection-end-line="131" selection-end-column="74" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#div#2;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -225,7 +231,7 @@
       <workItem from="1466829755263" duration="3885000" />
       <workItem from="1466931062927" duration="15325000" />
       <workItem from="1466987266367" duration="29066000" />
-      <workItem from="1467078535419" duration="16308000" />
+      <workItem from="1467078535419" duration="18955000" />
     </task>
     <task id="LOCAL-00001" summary="task10最新更新">
       <created>1466794201337</created>
@@ -304,17 +310,31 @@
       <option name="project" value="LOCAL" />
       <updated>1467005221982</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="task12最新更新">
+      <created>1467095724863</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1467095724863</updated>
+    </task>
+    <task id="LOCAL-00013" summary="task12最新更新">
+      <created>1467095780662</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1467095780662</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65174000" />
+    <option name="totallyTimeSpent" value="67821000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="89" y="51" width="1485" height="816" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28680557" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28680557" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947975" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -364,7 +384,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="task10最新更新" />
     <MESSAGE value="task11最新更新" />
-    <option name="LAST_COMMIT_MESSAGE" value="task11最新更新" />
+    <MESSAGE value="task12最新更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="task12最新更新" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -380,7 +401,6 @@
             <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#2;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -394,11 +414,11 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1467095557220" expanded="false" signature="410:428" placeholder="{...}" />
-            <marker date="1467095557220" expanded="false" signature="438:461" placeholder="{...}" />
-            <marker date="1467095557220" expanded="false" signature="475:541" placeholder="{...}" />
-            <marker date="1467095557220" expanded="false" signature="554:649" placeholder="{...}" />
-            <marker date="1467095557220" expanded="false" signature="662:764" placeholder="{...}" />
+            <element signature="e#410#428#0" expanded="false" />
+            <element signature="e#438#461#0" expanded="false" />
+            <element signature="e#475#541#0" expanded="false" />
+            <element signature="e#554#649#0" expanded="false" />
+            <element signature="e#662#764#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -495,28 +515,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/task12.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="269" column="0" selection-start-line="269" selection-start-column="0" selection-end-line="271" selection-end-column="1" />
+        <state relative-caret-position="681">
+          <caret line="182" column="1" selection-start-line="192" selection-start-column="3" selection-end-line="193" selection-end-column="29" />
           <folding>
-            <marker date="1467095557220" expanded="false" signature="410:428" placeholder="{...}" />
-            <marker date="1467095557220" expanded="false" signature="438:461" placeholder="{...}" />
-            <marker date="1467095557220" expanded="false" signature="475:541" placeholder="{...}" />
-            <marker date="1467095557220" expanded="false" signature="554:649" placeholder="{...}" />
-            <marker date="1467095557220" expanded="false" signature="662:764" placeholder="{...}" />
+            <element signature="e#410#428#0" expanded="false" />
+            <element signature="e#438#461#0" expanded="false" />
+            <element signature="e#475#541#0" expanded="false" />
+            <element signature="e#554#649#0" expanded="false" />
+            <element signature="e#662#764#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/task12.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="400">
+          <caret line="131" column="74" selection-start-line="131" selection-start-column="74" selection-end-line="131" selection-end-column="74" />
           <folding>
             <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#2;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
