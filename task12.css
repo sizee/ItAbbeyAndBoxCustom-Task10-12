@@ -193,11 +193,7 @@ float:right;
     padding:2px;
     margin: 3rem auto 0 auto;
 }
-/*.mainbody .sel{
-    position: absolute;
-    top:-50px;
-    right:3.5%;
-}*/
+
 .mainbody .single .span{
     font-size:1.8rem;
     color:#666;
